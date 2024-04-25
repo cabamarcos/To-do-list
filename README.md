@@ -1,3 +1,3 @@
 # To-do-list
 
-Try it here: https://lab2-100451047.cabamarcos.repl.co
+To try it, open this [link](https://cabamarcos.github.io/To-do-list/) on your phone
